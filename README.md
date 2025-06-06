@@ -35,7 +35,7 @@ AstroCypher Bot es un bot de Telegram que permite a los usuarios cifrar y descif
 
 1. Clona este repositorio:
 
-   git clone <https://github.com/tu-usuario/astrocypher-bot.git>
+   git clone https://github.com/ASTROCRYPT/astrocypher-bot.git
    cd astrocypher-bot
 
 2. Instala las dependencias:
